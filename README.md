@@ -26,9 +26,9 @@ Singaporeans travel far and wide — but emergencies don’t wait. Trip Guardian
 
 ## 🚀 Getting Started (Coming Soon)
 
-We are currently building the MVP. For now, check out:
+We are currently building a Minimum Viable Product. For now, check out:
 
-- 📽️ [1-Minute Elevator Pitc](https://www.youtube.com/watch?v=tg7txKcuOVA)
+- 📽️ [1-Minute Elevator Pitch](https://www.youtube.com/watch?v=tg7txKcuOVA)
 - 📄 [Slide Deck PDF](docs/Trip%20Guardian%20Slide%20Deck.pdf) 
 - 🖼️ [Wireframe Diagram](docs/Trip%20Guardian%20Wireframe.png)
 - 🖼️ [Architecture Diagram](docs/Trip%20Guardian%20Architecture.png)
