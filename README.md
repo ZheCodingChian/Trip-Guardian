@@ -1,4 +1,4 @@
-# 🛡️ Trip Guardian
+# ![Trip Guardian](assets/TripGuardianLogoBig.png) 
 
 **Trip Guardian** is a safety-focused travel app that keeps Singaporeans secure and informed while abroad. Whether it’s a natural disaster, civil unrest, or simply accessing your passport in a pinch, Trip Guardian ensures you have the right information at the right time — even offline.
 
